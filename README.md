@@ -2,7 +2,7 @@
 MuMa Predictor is a tool which computes predictors for reaction systems by using a methodology based on over-approximation.
 # How to install
 1. Download this repository and open it with your favorite java editor.
-2. Set jdk to the latest version in your Java editor(I'll use **Eclipse Editor** as an example):
+2. The libraries in the project are ready to use, but require an updated version of JDK to work properly. Set jdk to the latest version in your Java editor(I'll use **Eclipse Editor** as an example):
   - The guide described below is summarized in this video: https://www.youtube.com/watch?v=E9AqjOPM950
   - from here: https://www.oracle.com/it/java/technologies/downloads/ download the latest version of jdk,
   - Right-click on the project and go to properties. <br/>
@@ -24,7 +24,7 @@ MuMa Predictor is a tool which computes predictors for reaction systems by using
   - Select from the drop-down menu the version of jdk you just added and click on "Finish". <br/>
 <img src="https://github.com/valquake/MuMa-Predictor/blob/main/images/Readme08.png" width="500" height="400"><br/>
 # How to use
-
+For a quick guide on how to use the tool, see the appendix of the thesis.pdf file.
 
 
 
