@@ -1,9 +1,9 @@
 # MuMa-Predictor
 MuMa Predictor is a tool which computes predictors for reaction systems by using a methodology based on over-approximation.
-# Benchmarks
-Currently, we have used two sets of benchmarks as reference:
+# Reaction systems used for Benchmarks and Simulation 
+Currently, we have used two sets of reaction system as reference:
 1. **dummy.txt** - It is a dummy reaction system containing 20 instances and 33 different reactions. We used this to highlight the advantages obtained in the verification phase over the performance of a standard reaction system.
-2. **mammalian.txt** - 
+2. **mammalian.txt** - It is a reaction system based on a well-known model which examines a succession of molecular events that lead to the reproduction of a cell’s genome and its division through Cell Mitosis. Originally, it was a boolean network, which we converted into a reaction system using a Python-coded tool, in order to study attractors identified by MuMa. It counts 23 different reactions, which governs the activity of 10 instances.
 # How to install
 1. Download this repository and open it with your favorite java editor.
 2. The libraries in the project are ready to use, but require an updated version of JDK to work properly. Set jdk to the latest version in your Java editor(I'll use **Eclipse Editor** as an example):
